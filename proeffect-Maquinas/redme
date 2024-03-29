@@ -1,2 +1,0 @@
-Como gerar exe 
-/home/douglas/.local/bin/pyinstaller -i cnc_maquinas.exe index.py 
